@@ -1,6 +1,46 @@
 ###################
 What is CodeIgniter
 ###################
+# CodeIgniter Shopping Site
+
+## Overview
+CodeIgniter Shopping Site is a comprehensive e-commerce platform built with CodeIgniter, providing users with a seamless shopping experience. It offers features such as browsing and filtering products, adding items to the cart, and managing orders. Admin users have additional privileges for product management and user administration.
+
+## Features
+- User-friendly interface for browsing and purchasing products.
+- Shopping cart functionality for adding and managing items.
+- Filtering options for products based on price, color, and other attributes.
+- Order tracking and management for users.
+- Admin panel for managing products, users, and orders.
+
+## Technologies Used
+- CodeIgniter
+- PHP
+- MySQL
+- HTML/CSS
+- JavaScript
+- Bootstrap (for UI components)
+
+## Installation
+1. Clone the repository.
+2. Set up a local server environment with PHP and MySQL.
+3. Import the database schema provided in the `database` directory.
+4. Configure the database connection settings in the CodeIgniter configuration files.
+5. Start the local server and navigate to the project directory in your web browser.
+
+## Usage
+- Access the shopping site in your web browser.
+- Browse products by category and use filtering options as needed.
+- Add desired products to the shopping cart.
+- Proceed to checkout to complete the purchase process.
+- Registered users can view their order history and manage their account details.
+- Admin users can access the admin panel to manage products, users, and orders.
+
+## Contribution
+Contributions are welcome! Feel free to submit pull requests or open issues for any suggestions, improvements, or bug fixes.
+
+## License
+[MIT License](LICENSE)
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
